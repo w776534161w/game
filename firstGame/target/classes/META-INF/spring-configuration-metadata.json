@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "netty",
+      "type": "com.yx.firstGame.config.NettyConfig",
+      "sourceType": "com.yx.firstGame.config.NettyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "netty.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.yx.firstGame.config.NettyConfig",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
